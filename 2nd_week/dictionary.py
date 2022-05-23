@@ -1,8 +1,4 @@
 #1
-from optparse import Values
-from turtle import update
-
-
 inventory={
     '메로나':[300,20],
     '비비빅':[400,3],
